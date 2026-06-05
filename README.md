@@ -231,3 +231,4 @@ SCY1101 – Programación para la Ciencia de Datos
 # 🏫 Institución
 
 Escuela de Administración y Negocios
+g
