@@ -56,7 +56,7 @@ print('Librerías cargadas correctamente.')
 """## 2. Carga y preparación de datos
 
 Cargamos el dataset limpio proveniente del Parcial 1. Este CSV ya tiene:
-- **Count Encoding** para columnas de alta cardinalidad (`cuisines`, `location`, `rest_type`).
+- **Count Encoding** para coludsdssd alta cardinalidad (`cuisines`, `location`, `rest_type`).
 - **One-Hot Encoding** para columnas de baja cardinalidad (`online_order`, `book_table`).
 
 """
